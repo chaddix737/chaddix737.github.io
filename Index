@@ -21,8 +21,8 @@
 </head>
 
 <body>
-    
-
+    <button onClick="DoSomething()">This is my button</button>
+    <div id="myDiv"></div>
 
     <script type="text/javascript">
 
